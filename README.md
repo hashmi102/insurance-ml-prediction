@@ -1,7 +1,6 @@
 # Insurance Cost Prediction (Machine Learning Project)
 
-This project uses machine learning to predict insurance charges using features like age, BMI, sex, and smoking habits.
-
+This project employs machine learning to predict insurance charges based on factors such as age, BMI, sex, and smoking status.
 ## Folder Structureinsurance-ml-prediction/
 │
 ├── data
@@ -24,3 +23,4 @@ Polynomial Regression gave the best results.
 
 ## How to Use
 Open the notebook and run all cells. All data and preprocessing steps are included.
+
