@@ -18,9 +18,10 @@ This project employs machine learning to predict insurance charges based on fact
   
 
 ## Best Result
-Polynomial Regression gave the best results.
+Polynomial regression proved to be the most accurate method.
 
 
 ## How to Use
 Open the notebook and run all cells. All data and preprocessing steps are included.
+
 
