@@ -22,6 +22,7 @@ Polynomial regression proved to be the most accurate method.
 
 
 ## How to Use
-Open the notebook and run all cells. All data and preprocessing steps are included.
+Run the notebook to execute all data and preprocessing steps.
+
 
 
